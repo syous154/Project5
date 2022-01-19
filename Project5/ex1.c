@@ -4,6 +4,8 @@
 
 #define ROWS 10
 #define COLS 10
+//commit
+
 void black_white(int a[][COLS]) {
 	int *p, *endp;
 	p = &a[0][0];
